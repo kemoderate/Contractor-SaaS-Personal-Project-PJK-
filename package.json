@@ -1,0 +1,5 @@
+{
+  "name": "contractor-saas",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"]
+}
